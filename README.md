@@ -18,7 +18,11 @@
 | Asana |  
 | Hubspot |  
 | Google Hangouts |
-| Google Sheets |     
+| Google Sheets | ]
+| Canva |  
+| MailChimp |  
+
+
 
 
 ### [BruVue](https://bruvue.com/)
@@ -46,6 +50,8 @@
 | Knex Query Builder | 
 | NPM packages |
 | MySQL |  
+| Canva |  
+| Adobe Illustrator |  
 
 
 
